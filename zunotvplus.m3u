@@ -935,8 +935,9 @@ https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия Культура.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",O'zbekiston
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)",O'zbekiston

@@ -131,10 +131,28 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 http://82.215.111.227/1050/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Звезда +
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",СТС
+https://streaming.skynetconnect.online/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",СТС HD
+http://213.91.178.133:8000/play/a042
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Домашний HD
+http://213.91.178.133:8000/play/a0b5
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Перец ТВ
+http://213.91.178.133:8000/play/a0ay
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",REN TV
+http://213.91.178.133:8000/play/a0ax
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",TNT
+http://213.91.178.133:8000/play/a083
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",THT
+http://185.236.229.62:9981/play/a08a
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",ТВ3
+http://65.21.85.175:8000/play/a00u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",ТНВ-Планета (Казань)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",ДОЖДЬ
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Кино Плюс", Кинопремьера
 http://82.215.111.227/1207/index.m3u8
@@ -232,6 +250,8 @@ http://130.193.73.10:8937/play/a03m
 http://130.193.73.10:8937/play/a03n
 #EXTINF:-1 group-title="Кино Плюс", Русский бестселлер
 http://130.193.73.10:8937/play/a03l
+#EXTINF:-1 group-title="Кино Плюс", Золотая коллекция
+http://130.193.73.10:8937/play/a03i
 #EXTINF:-1 group-title="Кино Плюс", НСТ
 http://130.193.73.10:8937/play/a03c
 #EXTINF:-1 group-title="Кино Плюс", Кинопанорама
@@ -328,6 +348,16 @@ https://iptv.prosto.tv/id865/video.m3u8?secret=xws6dla3
 https://iptv.prosto.tv/id567/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Кино Плюс", Cine+ Legend
 https://iptv.prosto.tv/id568/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Action TVOE Kino HD
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Xit TVOE Kino HD
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Бровари Кіно TV
+https://stream.gia.tv/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Мелодрами HD
+http://cdnua05.hls.tv/8211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Сімейні мелодрами+
+http://cdnua05.hls.tv/617/hls/f62d71219200da4130d13b21d23fb23c/4892/stream.m3u8
 #EXTINF:-1 group-title="Кино Плюс", Kinoliving HD
 https://iptv.prosto.tv/id560/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Кино Плюс", 4ever Theater HD
@@ -370,6 +400,10 @@ https://iptv.prosto.tv/id57/video.m3u8?secret=xws6dla3
 https://iptv.prosto.tv/id160/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Кино Плюс", Star Family HD
 https://iptv.prosto.tv/id236/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", .Red
+http://178.124.152.238:8088/sony
+#EXTINF:-1 group-title="Кино Плюс", Киносат
+http://178.212.71.253:8000/play/66/index.m3u8
 #EXTINF:-1 group-title="Кино Плюс", FILMUA Drama HD
 https://iptv.prosto.tv/id97/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Кино Плюс", Bollywood HD
@@ -394,6 +428,14 @@ https://iptv.prosto.tv/id402/video.m3u8?secret=xws6dla3
 https://iptv.prosto.tv/id323/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Кино Плюс", 312 Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema Космос ТВ HD BY
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="Кино Плюс", FX
+http://45.143.108.110:2203/FOX
+#EXTINF:-1 group-title="Кино Плюс", FX Life
+http://188.237.47.212:6008
 
 #EXTINF:-1 group-title="Познавательные", National Geographic
 http://82.215.111.227/1041/index.m3u8
@@ -419,6 +461,8 @@ http://82.215.111.227/1247/index.m3u8
 http://82.215.111.227/1248/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 http://82.215.111.227/1250/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Planeta HD
+http://213.91.178.133:8000/play/a03t
 #EXTINF:-1 group-title="Познавательные", Точка РФ
 http://82.215.111.227/1222/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Точка Отрыва
@@ -690,12 +734,38 @@ http://82.215.111.227/1263/index.m3u8
 http://82.215.111.227/1264/index.m3u8
 #EXTINF:-1 group-title="🏆 Спорткомплекс",SETANTA 1 HD
 http://iptv-hls.idc.md:8200/hls/888/live1.m3u8
-#EXTINF:-1 group-title="🏆 Спорткомплекс",Futbol 1
-http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs10e
+#EXTINF:-1 group-title="🏆 Спорткомплекс", Setanta Sports 1
+https://tv.movielab.pro/942/video.m3u8?token=f0fc3fe6ddfdabb965c5e767103d42263af6ef8a-e36502b90f966280fd855315723d21a7-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс", Setanta Sports 2
+https://tv.movielab.pro/943/video.m3u8?token=466678950486c342b8c00ac61cc0fdfec0552d55-de0d04bc309600111de3752d4d2c7ed8-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Setanta Казахстан
+https://tv.movielab.pro/5094/video.m3u8?token=adc9de5b129223d0cffdc94ac135fb224aa0cc5b-85cff49ed214fb6757f32b387d0aa22c-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс", Матч HD
+https://tv.movielab.pro/397/video.m3u8?token=2cd4fd9bbae714a30a7a92eb7b5bc1b6bf4cdd59-c9a1ff7f6690e592650c5a7c222acc9c-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Арена HD
+https://tv.movielab.pro/146/video.m3u8?token=a5aede1de62575266d7f7aa860e1e111ebf20078-096f23d7f3c8d949597f05b0c8e55c11-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс", Игра HD
+https://tv.movielab.pro/268/video.m3u8?token=dc78f6a4867d6924b37b9e3c6f530595154b534b-e9a08f26987d7d588f3034a498a55869-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Премьер HD
+https://tv.movielab.pro/250/video.m3u8?token=6acc48f046cc803bd49042c3a41e7362cb9c6d63-6b6e1aaa37816030e6ea9ea48631708f-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс", Футбол 1 HD
+https://tv.movielab.pro/260/video.m3u8?token=819c7fb7838b9944c8273ff4fb25ca7395f67ef5-8e03e944c0d05fb1112aaebf1d18b798-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Футбол 2 HD
+https://tv.movielab.pro/271/video.m3u8?token=6ca49d55fb1ad5d8256dfabeee74b0cc78c5ef16-9ba06cafabd9e3642cba2bdc4cb1ab34-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Футбол 3 HD
+https://tv.movielab.pro/329/video.m3u8?token=4399e5deace23537cc6cc0d4f051e359f36e87db-6df387176a54855bb39a7500872bcb07-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Удар
+https://tv.movielab.pro/4111/video.m3u8?token=31b3d897854474c1c27325b20c18ae80d2baae3d-836baac76b73d2ca6d8831cf77cd9c3e-1745650439-1745564039
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Футбол
+https://tv.movielab.pro/3920/video.m3u8?token=96e00461bde9b3e595020fe0d1f023600969da5d-1a7164644cdef56e34582df982d438a1-1745650439-1745564039
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Futbol TV
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="🏆 Спорткомплекс",Futbol 3
+#EXTINF:-1 group-title="🏆 Спорткомплекс",ФУТБОЛ 1 HD
+http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs10e
+#EXTINF:-1 group-title="🏆 Спорткомплекс",ФУТБОЛ 2 HD
 http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs10e
+#EXTINF:-1 group-title="🏆 Спорткомплекс",ФУТБОЛ 3 HD
+http://flu.ttk.mx:90/Football_3HD/mono.m3u8?token=hs10e
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Trace Sports
 http://82.215.111.227/1274/index.m3u8
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Fuel TV

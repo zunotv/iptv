@@ -1,18 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="📺 O'zbekiston", https://t.me/zunotv
 https://m3u.usite.pro/27/intro.mp4
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)", https://t.me/zunotv
-https://m3u.usite.pro/27/intro.mp4
-#EXTINF:-1 group-title="🏆 Спорткомплекс", https://t.me/zunotv
-https://m3u.usite.pro/27/intro.mp4
-
-
-
-
-
 #EXTINF:-1 group-title="📺 Arabic",Ahl-Alquran TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-
 #EXTINF:-1 group-title="📺 O'zbekiston",O'zbekiston
 http://82.215.111.227/1001/index.m3u8
 #EXTINF:-1 group-title="📺 O'zbekiston",Yoshlar
@@ -101,12 +91,6 @@ http://82.215.111.227/1265/index.m3u8
 http://82.215.111.227/1004/index.m3u8
 #EXTINF:-1 group-title="📺 O'zbekiston",Futbol TV
 http://82.215.111.227/1010/index.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Первый канал HD
 http://82.215.111.227/1214/index.m3u8
@@ -284,7 +268,6 @@ https://iptv.prosto.tv/id513/video.m3u8
 #EXTINF:-1 group-title="🌿 Познавательные",Просто Гори
 https://iptv.prosto.tv/id514/video.m3u8
 
-
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Музыка первого
 http://82.215.111.227/1201/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Ru-TV
@@ -325,11 +308,6 @@ http://iptv.prosto.tv:7000/ch72/video.m3u8
 http://iptv.prosto.tv:7000/ch73/video.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Gulli
 http://iptv.prosto.tv:7000/ch74/video.m3u8
-
-
-
-
-
 
 #EXTINF:-1 group-title="🎵 Музыка",M1
 http://iptv.prosto.tv:7000/ch122/video.m3u8?secret=xws6dla3
@@ -419,6 +397,8 @@ https://mhd140.iptv2022.com/p/86Uf6hQSVsspMFXLqgFV_w,1744037715/streaming/tmb/32
 http://82.215.111.227/1263/index.m3u8
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Setanta Sports 2
 http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1 group-title="🏆 Спорткомплекс",SETANTA 1 HD
+http://iptv-hls.idc.md:8200/hls/888/live1.m3u8
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Futbol 1
 http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs10e
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Futbol TV
@@ -472,21 +452,12 @@ http://laranjatv.ddns.net:8080/bbrito19812/bZ4D7XPy/134314
 http://laranjatv.ddns.net:8080/bbrito19812/bZ4D7XPy/134312
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Sport tv+
 http://laranjatv.ddns.net:8080/bbrito19812/bZ4D7XPy/7300
-#EXTINF:-1 group-title="🏆 Спорткомплекс",
-
-#EXTINF:-1 group-title="🏆 Спорткомплекс",
-
-#EXTINF:-1 group-title="🏆 Спорткомплекс",
-
-#EXTINF:-1 group-title="🏆 Спорткомплекс",
-
-#EXTINF:-1 group-title="🏆 Спорткомплекс",
-
-
-
-
-
-
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Eurosport 1 hd
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Eurosport1 HD
+http://193.27.209.122/eurosport1/index.m3u8
+#EXTINF:-1 group-title="🏆 Спорткомплекс",Eurosport2 HD
+http://193.27.209.122/eurosport2/index.m3u8s
 
 #EXTINF:-1 group-title="📺 Liberty",Боевики FHD
 http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15096/index.m3u8
@@ -500,8 +471,6 @@ http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15090/index.m3u8
 http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15110/index.m3u8
 #EXTINF:-1 group-title="📺 Liberty",Южный Парк FHD
 http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/16053/index.m3u8
-
-
 
 #EXTINF:-1 group-title="📺 Кинозалы BCU",History HD
 http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/11034/index.m3u8
@@ -527,7 +496,6 @@ http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/31658/index.m3u8
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/11036/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Little HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/19425/index.m3u8
-
 
 #EXTINF:-1 group-title="📺 Кинозалы KLI",KLI Cinema HD
 http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/16078/index.m3u8
@@ -556,11 +524,6 @@ http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/19319/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы KLI",KLI Киносерия FHD
 http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/19400/index.m3u8
 
-
-
-
-
-
 #EXTINF:-1 group-title="📺 Кинозалы MS", Prisons HD
 http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/15137/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы MS",MS Toons HD
@@ -571,8 +534,6 @@ http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/16143/index.m3u8
 http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/16147/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы MS",Animated HD
 http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/17024/index.m3u8
-
-
 
 #EXTINF:-1 group-title="📺 Кинозалы MM",MM 007 HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13009/index.m3u8
@@ -650,10 +611,6 @@ http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13097/index.m3u8
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13098/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы MM",MM Ужасы HD
 
-
-
-
-
 #EXTINF:-1 group-title="📺 Кинозалы All", Epic Drama 
 http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/1048/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы All", MM Агата Кристи HD
@@ -693,9 +650,6 @@ http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19278/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы All",BOX Travel HD
 http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19418/index.m3u8
 
-
-
-
 #EXTINF:-1 group-title="📺 Turkmenistan",Altyn Asyr
 http://217.174.225.146/hls/ch001_720/index.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan",Yaslyk
@@ -710,8 +664,6 @@ http://217.174.225.146/hls/ch005_720/index.m3u8
 http://217.174.225.146/hls/ch006_720/index.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan",Turkmenistan
 http://217.174.225.146/hls/ch007_720/index.m3u8
-
-
 
 #EXTINF:-1 group-title="📺 Tajikistan",Badakhshon (576p)
 https://live.teleradiocom.tj/11/3m.m3u8?checkedby:iptvcat.org
@@ -741,7 +693,6 @@ https://live.teleradiocom.tj/6/3m.m3u8?checkedby:iptvcat.org
 https://live.teleradiocom.tj/14/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Tajikistan",Tajikistan (1080p)
 https://live.teleradiocom.tj/1/3m.m3u8?checkedby:iptvcat.org
-
 
 #EXTINF:-1 group-title="📺 Казакстан",Abai TV (720p)
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8?checkedby:zunotv
@@ -773,9 +724,6 @@ https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8?checkedby:zunotv
 https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Казакстан",МТРК (576p) [Not 24/7]
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:zunotv
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Доктор Достоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
@@ -929,16 +877,6 @@ https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Россия Культура.png" group-title="RUSSIA (тест)" catchup="default" tvg-rec="48",O'zbekiston
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
-https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)",O'zbekiston
 https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
@@ -1258,82 +1196,6 @@ https://stream2.cinerama.uz/1437/tracks-v2a1/mono.m3u8
 https://stream2.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)",Карусель
 https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🌿 Познавательные", viju+ Nature
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/161/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Big Planet
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/14027/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Nat Geo Wild
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/216/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", National Geographic
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/14000/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Глазами Туриста
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2104/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Приключения HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/920/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Пёс и Ко
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2123/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Моя планета
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2090/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Живая Планета ТВ
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2101/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Живая природа HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2074/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Домашние Животные
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/158/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", В мире животных
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2089/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Наша Сибирь
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/9330/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", ZooПарк
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/731/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Охота и рыбалка
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2019/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Охотник и рыболов
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/917/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Animal Planet
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/137/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Travel+Adventure
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/850/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Телепутешествия
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2051/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Ocean TV
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/703/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Discovery Science HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/136/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Discovery channel HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/140/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", RTG HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/210/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", DocuBox HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/968/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Дикий
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/847/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Дикая охота HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2004/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Дикая рыбалка HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2005/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Диалоги о рыбалке HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2394/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Загородный int HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2124/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Galaxy HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2010/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Оружие
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2087/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Трофей HD
-http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/9076/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="📺 Github (тест)",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8

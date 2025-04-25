@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="📺 O'zbekiston", https://t.me/zunotv
 https://m3u.usite.pro/27/intro.mp4
-#EXTINF:-1 group-title="📺 Arabic",Ahl-Alquran TV
+#EXTINF:-1 group-title="📺 O'zbekiston",Ahl-Alquran TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="📺 O'zbekiston",O'zbekiston
 http://82.215.111.227/1001/index.m3u8
@@ -106,208 +106,435 @@ http://82.215.111.227/1021/index.m3u8
 http://82.215.111.227/1048/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Euronews
 http://82.215.111.227/1024/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",нтв
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Вместе РФ
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",RT Documentary Russian
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",НТВ
 http://82.215.111.227/1023/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",твц
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",ТВЦ
 http://82.215.111.227/1025/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мир
 http://82.215.111.227/1218/index.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мир 24
 http://82.215.111.227/1219/index.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Звезда
 http://82.215.111.227/1050/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Кинопремьера
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Звезда +
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",ТНВ-Планета (Казань)
+https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+
+#EXTINF:-1 group-title="Кино Плюс", Кинопремьера
 http://82.215.111.227/1207/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Кинохит
+#EXTINF:-1 group-title="Кино Плюс", Кинохит
 http://82.215.111.227/1055/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Киномикс
+#EXTINF:-1 group-title="Кино Плюс", Киномикс
 http://82.215.111.227/1233/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Киносемья
+#EXTINF:-1 group-title="Кино Плюс", Киносемья
 http://82.215.111.227/1234/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мужское кино
+#EXTINF:-1 group-title="Кино Плюс", Мужское кино
 http://82.215.111.227/1237/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Кинокомедия
+#EXTINF:-1 group-title="Кино Плюс", Кинокомедия
 http://82.215.111.227/1232/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Индийское кино
+#EXTINF:-1 group-title="Кино Плюс", Индийское кино
 http://82.215.111.227/1060/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Киносерия
+#EXTINF:-1 group-title="Кино Плюс", Киносерия
 http://82.215.111.227/1235/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Киносвидание
+#EXTINF:-1 group-title="Кино Плюс", Киносвидание
 http://82.215.111.227/1203/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Наше новое кино
+#EXTINF:-1 group-title="Кино Плюс", Наше новое кино
 http://82.215.111.227/1051/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Родное кино
+#EXTINF:-1 group-title="Кино Плюс", Родное кино
 http://82.215.111.227/1052/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",viju TV1000
+#EXTINF:-1 group-title="Кино Плюс", ВИДЕОКАССЕТА
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 group-title="Кино Плюс", 1 FILMAX
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="Кино Плюс", 2 FILMAX
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="Кино Плюс", viju TV1000
 http://82.215.111.227/1058/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",viju TV1000 Action
+#EXTINF:-1 group-title="Кино Плюс", viju TV1000 Action
 http://82.215.111.227/1225/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",viju TV1000 Русское
+#EXTINF:-1 group-title="Кино Плюс", viju TV1000 Русское
 http://82.215.111.227/1059/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Cinema
+#EXTINF:-1 group-title="Кино Плюс", Cinema
 http://82.215.111.227/1227/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",в гостях у сказки
+#EXTINF:-1 group-title="Кино Плюс", в гостях у сказки
 http://82.215.111.227/1270/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Дорама
+#EXTINF:-1 group-title="Кино Плюс", Дорама
 http://82.215.111.227/1273/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Т24
+#EXTINF:-1 group-title="Кино Плюс", Т24
 http://82.215.111.227/1037/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Дом кино
+#EXTINF:-1 group-title="Кино Плюс", Дом кино
 http://82.215.111.227/1054/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Кинопоказ
+#EXTINF:-1 group-title="Кино Плюс", Кинопоказ
 http://82.215.111.227/1057/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Ретро
+#EXTINF:-1 group-title="Кино Плюс", Ретро
 http://82.215.111.227/1047/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Cine+
-http://iptv.prosto.tv:7000/ch33/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Cine+ Legend
-http://iptv.prosto.tv:7000/ch34/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Cine+ Hit
-http://iptv.prosto.tv:7000/ch40/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Kino Living
-http://iptv.prosto.tv:7000/ch36/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",4ever Cinema HD
-http://iptv.prosto.tv:7000/ch42/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",4ever Drama HD
-http://iptv.prosto.tv:7000/ch49/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Hollywood
-http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",BOLT
-http://iptv.prosto.tv:7000/ch53/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Ентер Фильм
-http://iptv.prosto.tv:7000/ch54/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Star Cinema
-http://iptv.prosto.tv:7000/ch56/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Star Family
-http://iptv.prosto.tv:7000/ch57/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Film UA
-http://iptv.prosto.tv:7000/ch59/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Bollywood
-http://iptv.prosto.tv:7000/ch61/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Filmbox Arthouse
-http://iptv.prosto.tv:7000/ch63/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Filmbox
-http://iptv.prosto.tv:7000/ch64/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Квартал ТВ
-http://iptv.prosto.tv:7000/ch65/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Kino Kazka HD
-http://iptv.prosto.tv:7000/ch79/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Pro Kino
-http://iptv.prosto.tv:7000/ch145/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",ТрейлерON
-https://iptv.prosto.tv/ch323/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", FAN
+http://130.193.73.10:8937/play/a03w
+#EXTINF:-1 group-title="Кино Плюс", Filmbox
+http://130.193.73.10:8937/play/a03s
+#EXTINF:-1 group-title="Кино Плюс", Filmbox Arthouse
+http://130.193.73.10:8937/play/a03t
+#EXTINF:-1 group-title="Кино Плюс", VIP Premiere HD
+http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 group-title="Кино Плюс", Sci-Fi
+http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 group-title="Кино Плюс", Zee TV
+http://130.193.73.10:8937/play/a03x
+#EXTINF:-1 group-title="Кино Плюс", Еврокино
+http://130.193.73.10:8937/play/a02w
+#EXTINF:-1 group-title="Кино Плюс", Flix Snip
+http://130.193.73.10:8937/play/a02r
+#EXTINF:-1 group-title="Кино Плюс", Дом Кино
+http://130.193.73.10:8937/play/a02v
+#EXTINF:-1 group-title="Кино Плюс", Дом Кино Премиум HD
+http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Мир сериала
+http://130.193.73.10:8937/play/a038
+#EXTINF:-1 group-title="Кино Плюс", Победа
+http://130.193.73.10:8937/play/a03h
+#EXTINF:-1 group-title="Кино Плюс", Amedia 1
+http://130.193.73.10:8937/play/a02m
+#EXTINF:-1 group-title="Кино Плюс", Amedia 2
+http://130.193.73.10:8937/play/a02n
+#EXTINF:-1 group-title="Кино Плюс", Amedia Hit
+http://130.193.73.10:8937/play/a02o
+#EXTINF:-1 group-title="Кино Плюс", Amedia Premium HD
+http://130.193.73.10:8937/play/a02p
+#EXTINF:-1 group-title="Кино Плюс", Bollywood HD
+http://130.193.73.10:8937/play/a02l
+#EXTINF:-1 group-title="Кино Плюс", Hollywood HD
+http://130.193.73.10:8937/play/a02k
+#EXTINF:-1 group-title="Кино Плюс", Иллюзион
+http://130.193.73.10:8937/play/a02y
+#EXTINF:-1 group-title="Кино Плюс", Русская Комедия
+http://130.193.73.10:8937/play/a03k
+#EXTINF:-1 group-title="Кино Плюс", Русский Детектив
+http://130.193.73.10:8937/play/a03o
+#EXTINF:-1 group-title="Кино Плюс", Русский Иллюзион
+http://130.193.73.10:8937/play/a03m
+#EXTINF:-1 group-title="Кино Плюс", Русский Роман
+http://130.193.73.10:8937/play/a03n
+#EXTINF:-1 group-title="Кино Плюс", Русский бестселлер
+http://130.193.73.10:8937/play/a03l
+#EXTINF:-1 group-title="Кино Плюс", НСТ
+http://130.193.73.10:8937/play/a03c
+#EXTINF:-1 group-title="Кино Плюс", Кинопанорама
+https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 1
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 2
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 5
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 32
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 33
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 36
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 group-title="Кино Плюс", Cinema Megahit HD
+https://iptv.prosto.tv/id578/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Cinema Comedy HD
+https://iptv.prosto.tv/id579/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Cinema Family HD
+https://iptv.prosto.tv/id589/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Cinema Prime
+https://iptv.prosto.tv/id726/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Cinema Legend HD
+https://iptv.prosto.tv/id727/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Сinema kinohit HD
+https://iptv.prosto.tv/id728/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", ICTV серіали HD
+https://iptv.prosto.tv/id865/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Cine+ HD
+https://iptv.prosto.tv/id567/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Cine+ Legend
+https://iptv.prosto.tv/id568/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Kinoliving HD
+https://iptv.prosto.tv/id560/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", 4ever Theater HD
+https://iptv.prosto.tv/id558/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", NOW series HD
+https://iptv.prosto.tv/id566/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Cine+ Hit HD
+https://iptv.prosto.tv/id539/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", 4ever Cinema HD
+https://iptv.prosto.tv/id521/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", 4ever Drama HD
+https://iptv.prosto.tv/id557/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Viasat Kino Megahit HD
+https://iptv.prosto.tv/id250/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Viasat Kino Comedy HD
+https://iptv.prosto.tv/id249/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Viasat Kino HD
+https://iptv.prosto.tv/id104/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Viasat Kino Action HD
+https://iptv.prosto.tv/id105/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс",  Viasat Kino World HD
+https://iptv.prosto.tv/id103/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Viasat Kino Megahit SD
+https://iptv.prosto.tv/id421/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Viasat Kino SD
+https://iptv.prosto.tv/id423/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Viasat Kino Action SD
+https://iptv.prosto.tv/id424/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Hollywood HD
+https://iptv.prosto.tv/id182/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Fox HD
+https://iptv.prosto.tv/id179/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Epic Drama HD
+https://iptv.prosto.tv/id370/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Bolt HD
+https://iptv.prosto.tv/id98/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Enter-фильм HD
+https://iptv.prosto.tv/id57/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Star Cinema HD
+https://iptv.prosto.tv/id160/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Star Family HD
+https://iptv.prosto.tv/id236/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", FILMUA Drama HD
+https://iptv.prosto.tv/id97/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Bollywood HD
+https://iptv.prosto.tv/id183/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", FilmBox Arthouse
+https://iptv.prosto.tv/id111/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", FilmBox
+https://iptv.prosto.tv/id109/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Квартал ТВ
+https://iptv.prosto.tv/id180/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Твій серіал HD
+https://iptv.prosto.tv/id718/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Kinosweet HD
+https://iptv.prosto.tv/id581/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Hollywood
+https://iptv.prosto.tv/id200/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", Дорама HD
+https://iptv.prosto.tv/id374/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", TLC
+https://iptv.prosto.tv/id402/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", ТрейлерON
+https://iptv.prosto.tv/id323/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Кино Плюс", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 
-#EXTINF:-1 group-title="🌿 Познавательные",Охота и рыбалка
-http://82.215.111.227/1038/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Discovery channel
-http://82.215.111.227/1039/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",National Geographic
+#EXTINF:-1 group-title="Познавательные", National Geographic
 http://82.215.111.227/1041/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Nat Geo Wild
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
 http://82.215.111.227/1042/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Animal Planet
+#EXTINF:-1 group-title="Познавательные", Охота и рыбалка
+http://82.215.111.227/1038/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery channel
+http://82.215.111.227/1039/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet
 http://82.215.111.227/1043/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Загородный
+#EXTINF:-1 group-title="Познавательные", Загородный
 http://82.215.111.227/1044/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",viju EXPLORE
+#EXTINF:-1 group-title="Познавательные", viju EXPLORE
 http://82.215.111.227/1045/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",viju HISTORY
+#EXTINF:-1 group-title="Познавательные", viju HISTORY
 http://82.215.111.227/1046/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",viju Nature
+#EXTINF:-1 group-title="Познавательные", viju Nature
 http://82.215.111.227/1228/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Моя Планета
+#EXTINF:-1 group-title="Познавательные", Моя Планета
 http://82.215.111.227/1247/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Наука
+#EXTINF:-1 group-title="Познавательные", Наука
 http://82.215.111.227/1248/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Живая Планета
+#EXTINF:-1 group-title="Познавательные", Живая Планета
 http://82.215.111.227/1250/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Точка РФ
+#EXTINF:-1 group-title="Познавательные", Точка РФ
 http://82.215.111.227/1222/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Точка Отрыва
+#EXTINF:-1 group-title="Познавательные", Точка Отрыва
 http://82.215.111.227/1031/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",История
+#EXTINF:-1 group-title="Познавательные", История
 http://82.215.111.227/1266/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Сарафан
+#EXTINF:-1 group-title="Познавательные", Сарафан
 http://82.215.111.227/1249/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",365
+#EXTINF:-1 group-title="Познавательные", 365
 http://82.215.111.227/1242/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Телекафе
+#EXTINF:-1 group-title="Познавательные", Телекафе
 http://82.215.111.227/1035/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Кухня
+#EXTINF:-1 group-title="Познавательные", Кухня
 http://82.215.111.227/1236/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Авто Плюс
+#EXTINF:-1 group-title="Познавательные", Авто Плюс
 http://82.215.111.227/1036/index.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Телеканал Рибалка (ук)
-http://iptv.prosto.tv:7000/ch88/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Свитло
-http://iptv.prosto.tv:7000/ch91/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Дача HD
-http://iptv.prosto.tv:7000/ch92/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",DocuBox
-http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Travel
-http://iptv.prosto.tv:7000/ch100/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",U-Travel
-http://iptv.prosto.tv:7000/ch167/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Сварожичи
-http://iptv.prosto.tv:7000/ch168/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Histoty
-http://iptv.prosto.tv:7000/ch87/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",ZOO TV
-https://iptv.prosto.tv/ch319/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Relaxon
-https://iptv.prosto.tv/ch317/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", ЕкоСистема
-https://iptv.prosto.tv/ch316/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Аквариум
-https://iptv.prosto.tv/id348/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные", Катастрофа ONLINE
-https://iptv.prosto.tv/id295/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Просто Джунглі
-https://iptv.prosto.tv/id513/video.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Просто Гори
-https://iptv.prosto.tv/id514/video.m3u8
-
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Музыка первого
-http://82.215.111.227/1201/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Ru-TV
-http://82.215.111.227/1202/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",TRT Muzik
-http://82.215.111.227/1208/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Ла Минор
-http://82.215.111.227/1238/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мама
-http://82.215.111.227/1244/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Мульт
-http://82.215.111.227/1246/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Duck TV
-http://82.215.111.227/1271/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Da Vinci
-http://iptv.prosto.tv:7000/ch78/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Дет Мир
-http://82.215.111.227/1032/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Уникум
-http://82.215.111.227/1033/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Карусель
-http://82.215.111.227/1034/index.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Плюс Плюс
-http://iptv.prosto.tv:7000/ch66/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Пиксель ТВ
-http://iptv.prosto.tv:7000/ch67/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Nickeledion
-http://iptv.prosto.tv:7000/ch68/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Nick junior
-http://iptv.prosto.tv:7000/ch69/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Nicktoons
-http://iptv.prosto.tv:7000/ch70/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Niki Kids
-http://iptv.prosto.tv:7000/ch71/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Niki Junior
-http://iptv.prosto.tv:7000/ch72/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Tiji
-http://iptv.prosto.tv:7000/ch73/video.m3u8
-#EXTINF:-1 group-title="📺 Русское ТВ (https://t.me/zunotv)",Gulli
-http://iptv.prosto.tv:7000/ch74/video.m3u8
+#EXTINF:-1 group-title="Познавательные", One Planet
+https://iptv.prosto.tv/id550/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", One Planet+ HD
+https://iptv.prosto.tv/id659/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Аквариум
+https://iptv.prosto.tv/id348/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Релакс
+https://iptv.prosto.tv/id492/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Водоспад
+https://iptv.prosto.tv/id500/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Лес
+https://iptv.prosto.tv/id503/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Вогонь
+https://iptv.prosto.tv/id504/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Пляж
+https://iptv.prosto.tv/id505/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Хроника Войны
+https://iptv.prosto.tv/id506/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Тропіки
+https://iptv.prosto.tv/id508/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Тераса
+https://iptv.prosto.tv/id509/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Осень
+https://iptv.prosto.tv/id511/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Ріка
+https://iptv.prosto.tv/id512/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Джунглі
+https://iptv.prosto.tv/id513/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Гори
+https://iptv.prosto.tv/id514/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Озеро
+https://iptv.prosto.tv/id515/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Prosto Fishing
+https://iptv.prosto.tv/id532/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Басейн
+https://iptv.prosto.tv/id533/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Флора
+https://iptv.prosto.tv/id536/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Просто Сад
+https://iptv.prosto.tv/id537/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", TrainStream
+https://iptv.prosto.tv/id544/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Prosto Night
+https://iptv.prosto.tv/id555/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Prosto Park
+https://iptv.prosto.tv/id580/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Катастрофа ONLINE
+https://iptv.prosto.tv/id295/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", ЕкоСистема
+https://iptv.prosto.tv/id302/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Stream CITY
+https://iptv.prosto.tv/id318/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Медичний HD
+https://iptv.prosto.tv/id556/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", National Geographic Channel HD
+https://iptv.prosto.tv/id178/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+https://iptv.prosto.tv/id408/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Viasat Nature
+https://iptv.prosto.tv/id77/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Viasat Explore
+https://iptv.prosto.tv/id79/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Viasat History HD
+https://iptv.prosto.tv/id78/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", History HD
+https://iptv.prosto.tv/id275/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", TinyTeen HD
+https://iptv.prosto.tv/id881/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Світло
+https://iptv.prosto.tv/id279/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Дача HD
+https://iptv.prosto.tv/id277/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", DocuBox HD
+https://iptv.prosto.tv/id85/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", LangLab HD
+https://iptv.prosto.tv/id882/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Эко-ТВ HD
+https://iptv.prosto.tv/id43/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", 36.6 HD
+https://iptv.prosto.tv/id260/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Travel channel Европа HD
+https://iptv.prosto.tv/id426/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Animal Planet
+https://iptv.prosto.tv/id232/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Discovery Channel
+https://iptv.prosto.tv/id209/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Travel XP HD
+https://iptv.prosto.tv/id524/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", H2 HD
+https://iptv.prosto.tv/id395/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Space Stream
+https://iptv.prosto.tv/id297/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", ПРО-ФАКТ
+https://iptv.prosto.tv/id301/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", ZOO Stream
+https://iptv.prosto.tv/id314/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Процес
+https://iptv.prosto.tv/id864/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Познавательные", Світ Навколо
+https://iptv.prosto.tv/id598/video.m3u8?secret=xws6dla3
 
 #EXTINF:-1 group-title="🎵 Музыка",M1
 http://iptv.prosto.tv:7000/ch122/video.m3u8?secret=xws6dla3
@@ -345,7 +572,6 @@ http://iptv.prosto.tv:7000/ch141/video.m3u8?secret=xws6dla3
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="🎵 Музыка",Fresh Music
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
-
 #EXTINF:-1 group-title="🎵 Музыка",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Nick Music
@@ -392,6 +618,71 @@ https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Vostok TV
 https://mhd140.iptv2022.com/p/86Uf6hQSVsspMFXLqgFV_w,1744037715/streaming/tmb/324/5/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Музыка 1
+https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Музыка 2
+https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Музыка 3
+https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Музыка 4
+https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Музыка 5
+https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Музыка 6
+https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Kpop Play TV
+https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Детское", Мама
+http://82.215.111.227/1244/index.m3u8
+#EXTINF:-1 group-title="Детское", Мульт
+http://82.215.111.227/1246/index.m3u8
+#EXTINF:-1 group-title="Детское", Duck TV
+http://82.215.111.227/1271/index.m3u8
+#EXTINF:-1 group-title="Детское", Дет Мир
+http://82.215.111.227/1032/index.m3u8
+#EXTINF:-1 group-title="Детское", Уникум
+http://82.215.111.227/1033/index.m3u8
+#EXTINF:-1 group-title="Детское", Карусель
+http://82.215.111.227/1034/index.m3u8
+#EXTINF:-1 group-title="Детское", ПлюсПлюс HD
+https://iptv.prosto.tv/id63/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Пиксель HD
+https://iptv.prosto.tv/id64/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Nickelodeon HD
+https://iptv.prosto.tv/id68/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Nick Jr
+https://iptv.prosto.tv/id306/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Nicktoons
+https://iptv.prosto.tv/id305/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", NIKI Kids HD
+https://iptv.prosto.tv/id274/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", NIKI Junior HD
+https://iptv.prosto.tv/id273/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Tiji
+https://iptv.prosto.tv/id181/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Gulli Girl
+https://iptv.prosto.tv/id198/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Cine+ Kids HD
+https://iptv.prosto.tv/id540/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", LaLe
+https://iptv.prosto.tv/id62/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Da Vinci HD
+https://iptv.prosto.tv/id69/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", KinoKazka HD
+https://iptv.prosto.tv/id439/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Cartoon Network
+https://iptv.prosto.tv/id324/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Cartoonito HD
+https://iptv.prosto.tv/id325/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Duck TV HD
+https://iptv.prosto.tv/id388/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Nickelodeon SD
+https://iptv.prosto.tv/id420/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", МультStream
+https://iptv.prosto.tv/id317/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="Детское", Повний Мульт
+https://iptv.prosto.tv/id517/video.m3u8?secret=xws6dla3
 
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Setanta Sports 1
 http://82.215.111.227/1263/index.m3u8
@@ -425,7 +716,6 @@ http://iptv.prosto.tv:7000/ch111/video.m3u8
 http://iptv.prosto.tv:7000/ch118/video.m3u8
 #EXTINF:-1 group-title="🏆 Спорткомплекс",Fast & FunBOX HD
 http://iptv.prosto.tv:7000/ch120/video.m3u8
-
 #EXTINF:-1 group-title="🏆 Спорткомплекс",J Sports1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
 #EXTINF:-1 group-title="🏆 Спорткомплекс",J Sports2
@@ -471,32 +761,16 @@ http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15090/index.m3u8
 http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15110/index.m3u8
 #EXTINF:-1 group-title="📺 Liberty",Южный Парк FHD
 http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/16053/index.m3u8
-
 #EXTINF:-1 group-title="📺 Кинозалы BCU",History HD
 http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/11034/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU", Fantastic HD
+#EXTINF:-1 group-title="📺 Кинозалы BCU",Fantastic HD
 http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/11032/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Catastrophe HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11028/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU",BCU СССР HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11026/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Action HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11027/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Cinema HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11029/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Cinema+ HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11030/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Kinorating HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11037/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Romantic HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11040/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Russia 90s HD
 http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/31658/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы BCU",Kids+ HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/11036/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы BCU",BCU Little HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/19425/index.m3u8
-
 #EXTINF:-1 group-title="📺 Кинозалы KLI",KLI Cinema HD
 http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/16078/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы KLI",KLI Comedy HD
@@ -523,21 +797,9 @@ http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18177/index.m3u8
 http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/19319/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы KLI",KLI Киносерия FHD
 http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/19400/index.m3u8
-
-#EXTINF:-1 group-title="📺 Кинозалы MS", Prisons HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/15137/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MS",MS Toons HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/15138/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MS",MS Magic 4K
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/16143/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MS",Young Blood HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/16147/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MS",Animated HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/17024/index.m3u8
-
 #EXTINF:-1 group-title="📺 Кинозалы MM",MM 007 HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13009/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM",,MM Love HD
+#EXTINF:-1 group-title="📺 Кинозалы MM",MM Love HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13010/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы MM",MM NewFilm 1 HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13011/index.m3u8
@@ -609,11 +871,9 @@ http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13095/index.m3u8
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13097/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы MM",MM Семейный 2 HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13098/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM",MM Ужасы HD
-
-#EXTINF:-1 group-title="📺 Кинозалы All", Epic Drama 
+#EXTINF:-1 group-title="📺 Кинозалы All",Epic Drama
 http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/1048/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All", MM Агата Кристи HD
+#EXTINF:-1 group-title="📺 Кинозалы All",MM Агата Кристи HD
 http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/13024/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы All",Видеокассета VHS
 http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/16049/index.m3u8
@@ -725,158 +985,7 @@ https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Казакстан",МТРК (576p) [Not 24/7]
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:zunotv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Доктор Достоевский
-https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Star Media
-https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Украина
-https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Военный
-https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Ералаш
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Приколы 1
-https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Приколы 2
-https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Шоу Бенни Хилла
-https://fl1001.bozztv.com/ushba62/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Мистер Бин
-https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Документалка 1
-https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Документалка 2
-https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Документалка 3
-https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Танцы 1
-https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Танцы 2
-https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Танцы 3
-https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Тик Ток
-https://fl1001.bozztv.com/ushba61/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Gameplay
-https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Gameplay трейлеры
-https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Спорт
-https://fl1001.bozztv.com/ushba46/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Овертайм
-https://fl1001.bozztv.com/ushba55/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 32
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 36
-https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Кинозалы 37
-https://fl1001.bozztv.com/ushba65/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Retrovision
-https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Retrovision Motor
-https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Retrovision Кинопанорама
-https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Retrovision Movies
-https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Retrovision Classic
-https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Музыка 1
-https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Музыка 2
-https://fl1001.bozztv.com/ushba-t2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Музыка 3
-https://fl1001.bozztv.com/ushba-t3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Музыка 4
-https://fl1001.bozztv.com/ushba-t4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Музыка 5
-https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Музыка 6
-https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Kpop Play TV
-https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Мода 1
-https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Мода 2
-https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Мода 3
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Мода 4
-https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Мода 5
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Мода 6
-https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" group-title="📺 Usba TV",Fashion Channel
-https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)",O'zbekiston
 https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
@@ -1196,294 +1305,6 @@ https://stream2.cinerama.uz/1437/tracks-v2a1/mono.m3u8
 https://stream2.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)",Карусель
 https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bSXKdK5.png" group-title="📺 Github (тест)",100% News (576p)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" group-title="📺 Github (тест)",312 Кино (406p)
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/twNYF1W.png" group-title="📺 Github (тест)",Cinema 1 (1080p)
-http://62.233.57.226:8001/play/a00l00
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="📺 Github (тест)",viju TV1000
-http://stream1.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="📺 Github (тест)",viju TV1000 russkoe
-http://stream1.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="📺 Github (тест)",viju TV1000 action (1080p)
-http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="📺 Github (тест)",Дом Кино Премиум HD
-http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="📺 Github (тест)",Кинопоказ
-http://31.148.48.15/Kinopokaz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w0ZE9QJ.png" group-title="📺 Github (тест)",Русский Бестселлер
-http://31.148.48.15/Russkiy_Bestseller/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="📺 Github (тест)",312 ТВ (406p)
-http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ds1ngS1.png" group-title="📺 Github (тест)",Premiera TV (1080p)
-http://62.233.57.226:8001/play/a009
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6BBnG6f.png" group-title="📺 Github (тест)",Star TV (1080p)
-http://62.233.57.226:8001/play/a008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKAM7dP.png" group-title="📺 Github (тест)",Tvoe TV HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="📺 Github (тест)",МТВ (Волгоград) (720p) [Not 24/7]
-http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mxsBZaC.png" group-title="📺 Github (тест)",Поехали!
-http://31.148.48.15/Poehali/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vhLQtSd.png" group-title="📺 Github (тест)",Ратник (1080p) [Geo-blocked]
-https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="📺 Github (тест)",360° Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/FreeDOMUAlogo.svg/512px-FreeDOMUAlogo.svg.png" group-title="📺 Github (тест)",Freedom (FREEДOM) (UATV) (720p)
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/64pv0lW.png" group-title="📺 Github (тест)",Next TV (1080p)
-http://62.233.57.226:8001/play/a00h
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86JYRVH.png" group-title="📺 Github (тест)",TV-Nord (1080p)
-https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9WcnjQN.png" group-title="📺 Github (тест)",Астрахань 24 (720p)
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r5HzA6J.png" group-title="📺 Github (тест)",Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rtuChZR.png" group-title="📺 Github (тест)",КРИК-ТВ (Екатеринбург)
-http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/legendarnyy-24-ru.png" group-title="📺 Github (тест)",Легендарный 24
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="📺 Github (тест)",Миллет (540p) [Not 24/7]
-https://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dj9c8Yd.png" group-title="📺 Github (тест)",Мир 24 (1080p)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jFP50g2.png" group-title="📺 Github (тест)",Общественное Независимое Телевидение (576p)
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2mxf3E.png" group-title="📺 Github (тест)",Радио Говорит Москва (404p) [Not 24/7]
-http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tolk.jpg?itok=EjM37GGs" group-title="📺 Github (тест)",Толк HD
-http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Jo7UAf.png" group-title="📺 Github (тест)",Abaza TV
-https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OhE6N8.png" group-title="📺 Github (тест)",Exclusiv TV (1080p)
-http://62.233.57.226:8001/play/a00f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9JfLseu.png" group-title="📺 Github (тест)",Mańǵystaý (540p) [Not 24/7]
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hv6Nk8A.png" group-title="📺 Github (тест)",Moldova 2 (1080p)
-http://62.233.57.226:8001/play/a00a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LL2gMNF.png" group-title="📺 Github (тест)",NTS TV (1080p)
-http://62.233.57.226:8001/play/a00d
-#EXTINF:-1 tvg-logo="https://online-red.com/images/tv/sochi-live.png" group-title="📺 Github (тест)",Sochi Live HD (720p) [Not 24/7]
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="📺 Github (тест)",TV1 KG (1080p)
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="📺 Github (тест)",TV BRICS Russian (1080p)
-http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bcw0s4V.png" group-title="📺 Github (тест)",Аист ТВ
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CTFVEAb.png" group-title="📺 Github (тест)",Арис 24 (720p) [Not 24/7]
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="📺 Github (тест)",Губерния (Самара) (576p)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4JUHIVS.png" group-title="📺 Github (тест)",Евразия (Орск) (720p)
-https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/57deE7f.png" group-title="📺 Github (тест)",Енисей (1080p) [Not 24/7]
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="📺 Github (тест)",Звезда (1080p) [Not 24/7]
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fw2Hkk4.png" group-title="📺 Github (тест)",Ингушетия ТВ
-https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7tNDKHe.png" group-title="📺 Github (тест)",К16 (Саров) (406p) [Not 24/7]
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DyJw1Pi.png" group-title="📺 Github (тест)",Кавказ 24 (Ставрополь)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BurrNTo.png" group-title="📺 Github (тест)",КТК (360p) [Not 24/7]
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hZXBD9F.png" group-title="📺 Github (тест)",Курай (Уфа) (576p)
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gCmCRfe.png" group-title="📺 Github (тест)",ЛДПР ТВ (480p)
-http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="📺 Github (тест)",Мир +2 (540p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="📺 Github (тест)",Мир +4 (540p) [Not 24/7]
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AqWaJT8.png" group-title="📺 Github (тест)",Мир +7 (540p)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gXbUMVy.png" group-title="📺 Github (тест)",Москва 24
-https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="📺 Github (тест)",МТРК (576p) [Not 24/7]
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LwXNUhf.png" group-title="📺 Github (тест)",НВК Саха (1080p) [Not 24/7]
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="📺 Github (тест)",Нижний Новгород 24 (720p) [Not 24/7]
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dccsFAu.png" group-title="📺 Github (тест)",Ника ТВ (576p) [Not 24/7]
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="📺 Github (тест)",НТВ HD
-https://cdn.ntv.ru/ntv0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AH50pGT.png" group-title="📺 Github (тест)",НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
-https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/skkDR7q.png" group-title="📺 Github (тест)",НТС (Севастополь) (1080p) [Not 24/7]
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="📺 Github (тест)",Общественное Телевидение России
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="📺 Github (тест)",ОСН
-http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="📺 Github (тест)",Первый Городской (Одесса) (576p)
-http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="📺 Github (тест)",РТР Планета Азия
-https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="📺 Github (тест)",РТР Планета Евро
-https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="📺 Github (тест)",РТР Планета СНГ
-https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0dRS4Cb.png" group-title="📺 Github (тест)",Телеканал 86 (Сургут) (1080p) [Not 24/7]
-https://sitv.ru/hls/s86.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zErXTdF.png" group-title="📺 Github (тест)",ТК Алмазный край (576p)
-https://stream.almaz-media.tv:8080/hls/576.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWKJA1O.png" group-title="📺 Github (тест)",Эхо TV (Рязань) (576p) [Not 24/7]
-https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="📺 Github (тест)",Amedia 1
-http://31.148.48.15/A1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="📺 Github (тест)",RU TV
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" group-title="📺 Github (тест)",Russian MusicBox (1080p)
-https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="📺 Github (тест)",SONGTV Russia (720p)
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/19R470V.png" group-title="📺 Github (тест)",Жар Птица (404p) [Geo-blocked]
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pg7K7eV.png" group-title="📺 Github (тест)",Матур ТВ (1080p)
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="📺 Github (тест)",Музыка Первого
-http://31.148.48.15/Muzika_Pervogo/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="📺 Github (тест)",Первый Музыкальный Канал (576p)
-http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="📺 Github (тест)",Первый Музыкальный Канал Россия (576p)
-http://rtmp.one.by:2200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="📺 Github (тест)",Радио Хит (Орск) (300p)
-http://lova.me/hls/hit.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="📺 Github (тест)",Радио Шансон (720p) [Not 24/7]
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="📺 Github (тест)",Страна FM (720p) [Not 24/7]
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="📺 Github (тест)",Amedia 2
-http://31.148.48.15/A2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="📺 Github (тест)",НТВ Сериал
-https://cdn.ntv.ru/th_serial/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="📺 Github (тест)",Ani
-http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="📺 Github (тест)",Nickelodeon
-http://31.148.48.15/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5FA62o.png" group-title="📺 Github (тест)",Радость моя
-https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" group-title="📺 Github (тест)",DW Russian (1080p)
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r3u0mxr.png" group-title="📺 Github (тест)",Univer TV (1080p) [Not 24/7]
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w4ys6zm.png" group-title="📺 Github (тест)",Астрахань.Ru TV (480p)
-https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vruuPKF.png" group-title="📺 Github (тест)",Большая Азия
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="📺 Github (тест)",БСТ (Башкирское спутниковое телевидение) (576p)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zKH1b5k.png" group-title="📺 Github (тест)",Ветта 24 (Пермь) (576p) [Not 24/7]
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="📺 Github (тест)",Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xHs1pr1.png" group-title="📺 Github (тест)",Волга (HD)
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gFMnaU5.png" group-title="📺 Github (тест)",Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="📺 Github (тест)",Время
-http://31.148.48.15/Vremya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jumkRvc.png" group-title="📺 Github (тест)",Дагестан (1080p)
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="📺 Github (тест)",Звезда Плюс
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="📺 Github (тест)",Зоо ТВ
-http://31.148.48.15/Zoo_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TgZ8Uv1.png" group-title="📺 Github (тест)",Красная линия
-http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1 tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" group-title="📺 Github (тест)",Мир Белагорья (720p) [Geo-blocked]
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W7ste2f.png" group-title="📺 Github (тест)",Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="📺 Github (тест)",НТВ Право
-https://cdn.ntv.ru/th_pravo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lf1r9L6.png" group-title="📺 Github (тест)",РЖД ТВ (360p) [Geo-blocked]
-http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/chNBF5t.png" group-title="📺 Github (тест)",С1 (Сургут) (1080p) [Not 24/7]
-https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FfULLr1.png" group-title="📺 Github (тест)",Салям (Уфа) (576p)
-https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://samaragis.ru/wp-includes/images/logo.png" group-title="📺 Github (тест)",Самара ГИС (1080p) [Not 24/7]
-http://45.67.57.9:8080/new/new/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3cP2fmX.png" group-title="📺 Github (тест)",Своё HD
-http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v0OYe1d.png" group-title="📺 Github (тест)",Соловьев LIVE
-https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rW1BeJC.png" group-title="📺 Github (тест)",ТВК 24 (576p)
-https://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1zbcZ3p.png" group-title="📺 Github (тест)",Телплюс ТВ (Астрахань) (360p) [Not 24/7]
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="📺 Github (тест)",Тивиком (Улан-Удэ) (1080p) [Not 24/7]
-http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VqtPB7L.png" group-title="📺 Github (тест)",ТКР (Рязань) (1080p) [Not 24/7]
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="📺 Github (тест)",ТНВ-Планета (Казань)
-https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kgNEVIr.png" group-title="📺 Github (тест)",Тюменское время
-https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/561FRwI.png" group-title="📺 Github (тест)",Югра
-https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qU9ohQu.png" group-title="📺 Github (тест)",Leomax 24 (1080p)
-https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmGnjV.png" group-title="📺 Github (тест)",Shopping Live (576p) [Not 24/7]
-http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r485aZL.png" group-title="📺 Github (тест)",Магнат ТВ
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IcWtXCZ.png" group-title="📺 Github (тест)",Ювелирочка ТВ (576p)
-https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JhrTB82.png" group-title="📺 Github (тест)",Life TV (432p) [Not 24/7]
-http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="📺 Github (тест)",Maná Tserkov' Onlayn (1080p) [Not 24/7]
-https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="📺 Github (тест)",TBN Baltia (1080p)
-http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="📺 Github (тест)",TV Maná Russkiy (1080p)
-https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ah6VnFJ.png" group-title="📺 Github (тест)",Надежда (720p)
-https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="📺 Github (тест)",Союз (576p)
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="📺 Github (тест)",СПАС (576p)
-https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4fhBbam.png" group-title="📺 Github (тест)",Три Ангела (720p)
-https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="📺 Github (тест)",Хузур ТВ (1080p) [Not 24/7]
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="📺 Github (тест)",MyZen TV (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="📺 Github (тест)",RT Documentary Russian (1080p)
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="📺 Github (тест)",viju History
-http://stream1.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8xdU3Ry.png" group-title="📺 Github (тест)",Нано ТВ HD
-http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="📺 Github (тест)",Sochi 24 HD
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="📺 Github (тест)",viju+ Sport
-http://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="📺 Github (тест)",Астрахань.Ru Sport (720p)
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JvlO3PU.png" group-title="📺 Github (тест)",Дума ТВ
-https://dumatv.iptv2022.com/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPqySGk.png" group-title="📺 Github (тест)",ЖИВИ!
-http://31.148.48.15/Zhivi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="📺 Github (тест)",НТВ Стиль
-https://cdn.ntv.ru/th_hit/playlist.m3u8
-#EXTINF:-1 group-title="📺 Github (тест)",#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="📺 Github (тест)",Муз союз (576p)
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epgx.site/p/tvoetv-humor.png" group-title="📺 Github (тест)",Твое ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame",ВИДЕОКАССЕТА

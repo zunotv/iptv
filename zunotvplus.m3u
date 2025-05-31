@@ -387,7 +387,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/N452PD2NQGMCCD/13040/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/N452PD2NQGMCCD/18193/index.m3u8
 
 
-
+#EXTINF:-1 group-title="🎥 Интернет ТВ",TopKino 24/7
+http://195.9.195.3:8080/hls/215936.m3u8
 #EXTINF:-1 group-title="🎥 Интернет ТВ",alpha Cinema
 http://195.9.195.3:8080/hls/205072.m3u8
 #EXTINF:-1 group-title="🎥 Интернет ТВ",alpha MoreTime
@@ -424,6 +425,7 @@ https://autopilot.catcast.tv/content/34246/index.m3u8?token=f8bbfeb3fa5cc915d997
 https://v2.catcast.tv/content/44051/index.m3u8?token=d2dbccdf21b549237648a0b1cc04c438
 #EXTINF:-1 group-title="🎥 Интернет ТВ",СТРАХ HD
 https://s.catcast.tv/content/34816/index.m3u8?token=b73f4ff1d7a0e4bc9893d6b8cb814c53
+
 
 
 #EXTINF:-1 group-title="🌿 Познавательные",National Geographic Channel HD
@@ -685,10 +687,20 @@ https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Balleballe TV (индийская музыка)
 https://mcncdndigital.com/balleballetv/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 group-title="👶 Детское",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="👶 Детское",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="👶 Детское",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="👶 Детское",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="👶 Детское",О!
 http://109.248.236.51/o/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детское",Мульт
 http://109.248.236.51/mult/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="👶 Детское",Мульт HD
+https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="👶 Детское",Мультиландия
 http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детское",Карусель
@@ -1155,6 +1167,33 @@ http://193.27.209.122/eurosport2/index.m3u8
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="⚽️ Спорткомплекс",PremierSports2-FHD
 https://7pal.short.gy/prsport2
+
+
+#EXTINF:-1 group-title="📺 Europa", Warner channel HD
+http://200.60.124.19:29000/play/a0h3/index.m3u8
+#EXTINF:-1 group-title="📺 Europa", HBO HD
+http://181.78.109.48:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="📺 Europa", HBO2 HD
+http://181.78.109.48:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="📺 Europa", HBO Family HD
+http://181.78.109.48:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="📺 Europa", HBO Plus HD
+http://181.78.109.48:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="📺 Europa", HBO Extreme HD
+http://181.78.109.48:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="📺 Europa", La LiGa SKY Sports
+http://181.78.109.48:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="📺 Europa", King Movie
+https://fastdehost.com/live/kingmovie.m3u8
+#EXTINF:-1 group-title="📺 Europa", Digi Movie
+https://fastdehost.com/live/digimovie.m3u8
+#EXTINF:-1 group-title="📺 Europa", Serial Baran 1
+https://fastdehost.com/live/serialbaran1.m3u8
+#EXTINF:-1 group-title="📺 Europa", Cinemax HD
+http://200.60.124.19:29000/playlist.m3u8
+#EXTINF:-1 group-title="📺 Europa", TNT HD
+http://200.60.124.19:29000/play/a0gz/index.m3u8
+
 
 
 

@@ -3,6 +3,9 @@
 https://m3u.usite.pro/27/intro.mp4
 #EXTINF:-1 group-title="📺 Русское",ZunoTV 02.05.2025/zuno.surge.sh/20:08 (+5:00)
 https://zuno.surge.sh/demo.mp4
+#EXTINF:-1 group-title="📺 Русское",MaxTV
+https://m3u.usite.pro/27/max.mp4
+
 #EXTINF:-1 group-title="📺 Русское",Первый канал HD
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 group-title="📺 Русское",Первый канал +4
@@ -15,38 +18,28 @@ http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/792000_576p.m3u8
 #EXTINF:-1 group-title="📺 Русское",Россия 1 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="📺 Русское",Россия 1 +2
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/track_101_e5d9fe7b/chunklist.m3u8
-#EXTINF:-1 group-title="📺 Русское",Россия 1 +4
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/track_101_650d6e7a/chunklist.m3u8
-#EXTINF:-1 group-title="📺 Русское",Россия 1 +6
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/track_101_ae5dc38f/chunklist.m3u8
-#EXTINF:-1 group-title="📺 Русское",Россия 1 +7
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/track_105_a1b0f627/chunklist.m3u8
 #EXTINF:-1 group-title="📺 Русское",Россия 24
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/1399200_576p.m3u8
-#EXTINF:-1 group-title="📺 Русское",Россия К
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/track_101_7f00028a/chunklist.m3u8
 #EXTINF:-1 group-title="📺 Русское",Время
-http://109.248.236.51/vremya/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/vremia
 #EXTINF:-1 group-title="📺 Русское",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 group-title="📺 Русское",Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺 Русское",НТВ
-https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Русское",НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское",НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a01d/index.m3u8?token=livetv
+#EXTINF:-1 group-title="📺 Русское",НТВ Стиль
+http://65.21.85.175:8000/play/a018/index.m3u8?token=livetv
+#EXTINF:-1 group-title="📺 Русское",НТВ Хит
+http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 group-title="📺 Русское",НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Русское",НТВ Мир
-http://109.248.236.51/ntv_mir/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a01e/index.m3u8?token=livetv
+#EXTINF:-1 group-title="📺 Русское",НТВ-Мир
+http://45.143.108.110:2200/ntvmir
 #EXTINF:-1 group-title="📺 Русское",ТВЦ
 http://82.215.111.227/1025/index.m3u8
 #EXTINF:-1 group-title="📺 Русское",Мир
-http://109.248.236.51/mir/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a00d/index.m3u8?token=livetv
 #EXTINF:-1 group-title="📺 Русское",Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское",Мир +3
@@ -56,29 +49,29 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское",Звезда +
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское",СТС
-http://109.248.236.51/sts/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/13/index.m3u8
 #EXTINF:-1 group-title="📺 Русское",СТС Kids
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
 #EXTINF:-1 group-title="📺 Русское", СТС International
 https://cdn2.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 group-title="📺 Русское",Перец International
-http://109.248.236.51/perec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Русское",Перец 
+http://178.124.152.238:8088/perec
 #EXTINF:-1 group-title="📺 Русское",RenTV
-http://109.248.236.51/ren/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/11/index.m3u8
 #EXTINF:-1 group-title="📺 Русское",Домашний
-http://109.248.236.51/domashniy/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/14/index.m3u8
 #EXTINF:-1 group-title="📺 Русское",КВН ТВ
-http://109.248.236.51/kvn_tv/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1 group-title="📺 Русское",365 дней ТВ
-http://109.248.236.51/365_dney/tracks-v1a1/mono.m3u8
+https://cp1.server89.com:19360/radiostudioonelive/radiostudioonelive.m3u8
 #EXTINF:-1 group-title="📺 Русское",ТНВ-Планета (Казань)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское",ДОЖДЬ
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское",Совершенно секретно
-http://109.248.236.51/sovershenno_secretno/tracks-v1a1/mono.m3u8
+http://178.124.152.238:8088/sovsec
 #EXTINF:-1 group-title="📺 Русское",Ностальгия
-http://109.248.236.51/nostalgia/tracks-v1a1/mono.m3u8
+http://178.124.152.238:8088/nostalgia
 #EXTINF:-1 group-title="📺 Русское",Красная линия
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское",360 HD
@@ -90,29 +83,47 @@ http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🎥 Кино Плюс",Кинопремьера
-http://109.248.236.51/kinopremiera_hd/tracks-v1a1/mono.m3u8
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Кинохит
-http://109.248.236.51/kinohit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Киномикс
-http://109.248.236.51/kinomix/tracks-v1a1/mono.m3u8
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Киносемья
-http://109.248.236.51/kinosemya/tracks-v1a1/mono.m3u8
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Киномикс
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Мужское кино
-http://109.248.236.51/muzhskoe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Киноужас
-http://rhsbjv7k.tvclub.xyz/iptv/N452PD2NQGMCCD/2056/index.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Кинокомедия
-http://109.248.236.51/kinokomedia/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Индийское кино
-http://109.248.236.51/indiyskoe_kino/tracks-v1a1/mono.m3u8
+https://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Киносерия
-http://109.248.236.51/kinoseria/tracks-v1a1/mono.m3u8
+https://vod.splay.uz/live_splay/original/Kinoseriya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Родное Кино
+https://vod.splay.uz/live_splay/original/Rodnoe_Kino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Наш новое кино
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Киносвидание
-http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Наше новое кино
-http://109.248.236.51/nashe_novoe_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Родное кино
-http://109.248.236.51/rodnoe_kino/tracks-v1a1/mono.m3u8
+https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Кинокомедия
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Индийское Кино
+https://vod.splay.uz/live_splay/original/Indiyskoe_Kino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",viju TV1000
+https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",viju TV1000 Русское кино
+https://vod.splay.uz/live_splay/original/TV1000rus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",viju TV1000 Action
+https://vod.splay.uz/live_splay/original/vijuTV1000action/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Ретро
+https://vod.splay.uz/live_splay/original/Retro/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Русский бестселлер
+https://vod.splay.uz/live_splay/original/RusskiyBesteler/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Русский детектив
+https://vod.splay.uz/live_splay/original/RusskiyDetektiv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Star Cinema
+https://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Cinema HD
+https://vod.splay.uz/live_splay/original/CinemaHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Дорама
+https://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Киноужас
+http://tv.ttk.mx:9193
 #EXTINF:-1 group-title="🎥 Кино Плюс",Видеокассета
 http://195.9.195.3:8080/hls/176975.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",1 FILMAX
@@ -120,47 +131,40 @@ http://195.9.195.3:8080/hls/204708.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",2 FILMAX
 http://195.9.195.3:8080/hls/204717.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",в гостях у сказки
-http://109.248.236.51/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8
+http://109.200.130.123:7537/play/a03m
 #EXTINF:-1 group-title="🎥 Кино Плюс",Т24
-http://109.248.236.51/tehno_24/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9056
+#EXTINF:-1 group-title="🎥 Кино Плюс",TV XXI
+http://tv.ttk.mx:9067
 #EXTINF:-1 group-title="🎥 Кино Плюс",Дом кино
-http://109.248.236.51/dom_kino/tracks-v1a1/mono.m3u8
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
 #EXTINF:-1 group-title="🎥 Кино Плюс",FAN
 http://130.193.73.10:8937/play/a03w
-#EXTINF:-1 group-title="🎥 Кино Плюс",ТВ-21
-http://109.248.236.51/tvxxi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Start Air HD
-http://109.248.236.51/start_air_hd/tracks-v1a1/mono.m3u8
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Start World HD
-http://109.248.236.51/start_world_hd/tracks-v1a1/mono.m3u8
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Еврокино
-http://109.248.236.51/eurokino/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/evrokino
+
 #EXTINF:-1 group-title="🎥 Кино Плюс",Sci-Fi
-http://109.248.236.51/sci-fi/tracks-v1a1/mono.m3u8
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Дом Кино
-http://109.248.236.51/dom_kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Дом Кино Премиум HD
-http://109.248.236.51/dom_kino_premium/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Мир сериала
-http://109.248.236.51/mir_seriala/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Победа
-http://109.248.236.51/pobeda/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Amedia 1
-http://109.248.236.51/amedia_1_hd/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/domkino
 #EXTINF:-1 group-title="🎥 Кино Плюс",Amedia 2
 http://sc.id-tv.kz/A2.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Amedia Hit
-http://109.248.236.51/amedia_hit_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Amedia Premium HD
-http://109.248.236.51/amedia_premium_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🎥 Кино Плюс",Иллюзион
-http://109.248.236.51/illusion+/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🎥 Кино Плюс",Amedia 1
+http://tv.ttk.mx:9155
+#EXTINF:-1 group-title="🎥 Кино Плюс",Timeless Dizi Channel
+http://tv.ttk.mx:9189
+#EXTINF:-1 group-title="🎥 Кино Плюс",Иллюзион+
+http://tv.ttk.mx:9028
 #EXTINF:-1 group-title="🎥 Кино Плюс",Русский Иллюзион
-http://109.248.236.51/russkiy_illusion/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9027
 #EXTINF:-1 group-title="🎥 Кино Плюс",Золотая коллекция
-http://109.248.236.51/mosfilm/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/124/index.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Кинопанорама
 https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎥 Кино Плюс",Cinema 1
@@ -310,7 +314,7 @@ https://iptv.prosto.tv/id160/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="🎥 Кино Плюс",Star Family HD
 https://iptv.prosto.tv/id236/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="🎥 Кино Плюс",.Red
-http://109.248.236.51/red/tracks-v1a1/mono.m3u8
+http://178.124.152.238:8088/sony
 #EXTINF:-1 group-title="🎥 Кино Плюс",FILMUA Drama HD
 https://iptv.prosto.tv/id97/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="🎥 Кино Плюс",Bollywood HD
@@ -387,7 +391,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/N452PD2NQGMCCD/13040/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/N452PD2NQGMCCD/18193/index.m3u8
 
 
-#EXTINF:-1 group-title="🎥 Интернет ТВ",TopKino 24/7
+
+#EXTINF:-1 group-title="🎥 Интернет ТВ",Top Kino1
+http://195.9.195.3:8080/hls/208483.m3u8
+#EXTINF:-1 group-title="🎥 Интернет ТВ",TopKino2
 http://195.9.195.3:8080/hls/215936.m3u8
 #EXTINF:-1 group-title="🎥 Интернет ТВ",alpha Cinema
 http://195.9.195.3:8080/hls/205072.m3u8
@@ -433,33 +440,31 @@ https://iptv.prosto.tv/id178/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="🌿 Познавательные",Nat Geo Wild
 https://iptv.prosto.tv/id408/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="🌿 Познавательные",Домашние животные
-http://109.248.236.51/domashnie_zhivotnie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",В мире животных HD
-http://109.248.236.51/nat_geo_wild_hd/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/95/index.m3u8
 #EXTINF:-1 group-title="🌿 Познавательные",Охота и рыбалка
-http://109.248.236.51/ohota_i_ribalka/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Discovery channel
-http://109.248.236.51/Discovery/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9034
+#EXTINF:-1 group-title="🌿 Познавательные",Discovery HD
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 #EXTINF:-1 group-title="🌿 Познавательные",Animal Planet
 https://iptv.prosto.tv/id232/video.m3u8?secret=xws6dla3
-#EXTINF:-1 group-title="🌿 Познавательные",Загородный
-http://109.248.236.51/zagorodniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Оружие
-http://109.248.236.51/oruzhie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🌿 Познавательные",RTG HD
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:-1 group-title="🌿 Познавательные",Живая Природа HD
+http://tv.ttk.mx:9066
 #EXTINF:-1 group-title="🌿 Познавательные",Zooпарк
-http://109.248.236.51/zoopark/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9029
 #EXTINF:-1 group-title="🌿 Познавательные",Поехали!
-http://109.248.236.51/poehali/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9082
 #EXTINF:-1 group-title="🌿 Познавательные",Точка Отрыва
-http://109.248.236.51/tochka_otriva/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/61/index.m3u8
 #EXTINF:-1 group-title="🌿 Познавательные",365 дней ТВ
-http://109.248.236.51/365_dney/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/67/index.m3u8
 #EXTINF:-1 group-title="🌿 Познавательные",Телекафе
-http://109.248.236.51/telecafe/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9081
 #EXTINF:-1 group-title="🌿 Познавательные",Кухня
-http://109.248.236.51/kuhnya_tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🌿 Познавательные",Авто Плюс
-http://109.248.236.51/avtoplus/tracks-v1a1/mono.m3u8
+http://178.124.152.238:8088/kuhnya
+#EXTINF:-1 group-title="🌿 Познавательные",Авто 24
+http://178.124.152.238:8088/auto24
 #EXTINF:-1 group-title="🌿 Познавательные",One Planet
 https://iptv.prosto.tv/id550/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="🌿 Познавательные",One Planet+ HD
@@ -565,13 +570,13 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 
 
 #EXTINF:-1 group-title="🎵 Музыка",Шансон ТВ
-http://109.248.236.51/shanson/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/shanson
 #EXTINF:-1 group-title="🎵 Музыка",Музыка первого
-http://109.248.236.51/muzyka_pervogo/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9078
 #EXTINF:-1 group-title="🎵 Музыка",Муз ТВ
-http://109.248.236.51/muz_tv/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9019
 #EXTINF:-1 group-title="🎵 Музыка",ТНТ Music
-http://109.248.236.51/tnt_music/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9023
 #EXTINF:-1 group-title="🎵 Музыка", Восток ТВ
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",M1
@@ -649,7 +654,7 @@ https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Song TV (Armenia)
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Europa Plus TV
-http://109.248.236.51/europa_plus/tracks-v1a1/mono.m3u8
+http://135.181.115.81:8000/play/a03l/index.m3u8?token=livetv
 #EXTINF:-1 group-title="🎵 Музыка",Музыка 1
 https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Музыка 2
@@ -696,15 +701,13 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="👶 Детское",СоюзМультфильм
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="👶 Детское",О!
-http://109.248.236.51/o/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9092
 #EXTINF:-1 group-title="👶 Детское",Мульт
-http://109.248.236.51/mult/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9086
 #EXTINF:-1 group-title="👶 Детское",Мульт HD
 https://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="👶 Детское",Мультиландия
-http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="👶 Детское",Карусель
-http://109.248.236.51/karusel/tracks-v1a1/mono.m3u8
+http://tv.ttk.mx:9007
 #EXTINF:-1 group-title="👶 Детское",ПлюсПлюс HD
 https://iptv.prosto.tv/id63/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="👶 Детское",Пиксель HD
@@ -746,383 +749,155 @@ https://iptv.prosto.tv/id517/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="👶 Детское", МультKazkи
 http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP_multkazki/video.m3u8
 
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Ahl-Alquran TV
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",O'zbekiston
-http://82.215.111.227/1001/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",O'zbekiston 24
-http://82.215.111.227/1011/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Yoshlar
-http://82.215.111.227/1002/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Toshkent
-http://82.215.111.227/1003/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Sevimli
-http://82.215.111.227/1017/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",My5
-http://82.215.111.227/1012/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",My5 International
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Zo'r TV
-http://82.215.111.227/1016/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Milliy
-http://82.215.111.227/1014/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",iTV Cinema
-http://82.215.111.227/4000/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Gold TV
-http://82.215.111.227/4007/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",NTV (o'zbekiston)
-http://82.215.111.227/1284/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Nurafshon TV
-http://82.215.111.227/1220/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Ruxsor TV
-http://82.215.111.227/1260/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Amudaryo TV
-http://82.215.111.227/1491/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Taraqqiyot TV
-http://82.215.111.227/1204/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Солнечный тв
-https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Farg'ona mtrk
-http://82.215.111.227/1458/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Surxondaryo mtrk
-http://82.215.111.227/1463/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Xorazm mtrk
-http://82.215.111.227/1464/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Qaraqalpaqstan mtrk
-http://82.215.111.227/1467/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Makon TV
-http://82.215.111.227/1497/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",TTV Telekanal
-http://82.215.111.227/1494/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",TTV Kino
-http://82.215.111.227/1486/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Jtv
-http://82.215.111.227/1488/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Eliqqala
-http://82.215.111.227/1495/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Jaslar
-http://82.215.111.227/1490/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Vodiy TV
-http://82.215.111.227/4012/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",S-Cinema
-http://82.215.111.227/1498/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Live TV
-http://82.215.111.227/1475/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",BiZ TV
-http://82.215.111.227/1211/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",BiZ Music
-http://82.215.111.227/1212/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",BiZ Cinema
-http://82.215.111.227/1213/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Shifo TV
-http://82.215.111.227/1469/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Travel-tv (O'zbekiston)
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Biznes TV
-https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Ishonch TV
-http://82.215.111.227/1489/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Kinoteatr
-http://82.215.111.227/1009/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Sevimlijon
-http://82.215.111.227/1477/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",MIMI TV
-http://82.215.111.227/1470/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Aqlvoy
-http://82.215.111.227/1205/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Bolajon
-http://82.215.111.227/1007/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",S-Music
-http://82.215.111.227/1476/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",fTV
-http://82.215.111.227/1018/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",iTV Music
-http://82.215.111.227/4001/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Муз-ТВ (O'zbekiston)
-http://82.215.111.227/1063/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Navo
-http://82.215.111.227/1008/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Dasturxon TV
-http://82.215.111.227/1206/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Rtv
-http://82.215.111.227/1221/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Madaniyat va Ma'rifat
-http://82.215.111.227/1005/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Dunyo Bo'ylab
-http://82.215.111.227/1006/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",MYDAYTV
-http://82.215.111.227/1265/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Mahalla
-http://82.215.111.227/1013/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Uzreport
-http://82.215.111.227/1015/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Sport
-http://82.215.111.227/1004/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Futbol TV
-http://82.215.111.227/1010/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Первый канал HD
-http://82.215.111.227/1214/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Первый канал
-http://82.215.111.227/1019/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Россия К
-http://82.215.111.227/1048/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Россия 1
-http://82.215.111.227/1020/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Россия 24
-http://82.215.111.227/1021/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Euronews
-http://82.215.111.227/1024/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",РБК
-http://82.215.111.227/1438/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",24 KZ
-http://82.215.111.227/1408/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Мир
-http://82.215.111.227/1218/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Мир 24
-http://82.215.111.227/1219/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",НТВ
-http://82.215.111.227/1023/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",НТВ Мир
-http://82.215.111.227/1434/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",ТВ-3
-http://82.215.111.227/1435/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",ТВЦ
-http://82.215.111.227/1025/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Домашный
-http://82.215.111.227/1436/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Звезда
-http://82.215.111.227/1050/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",СТС Kids
-http://82.215.111.227/1437/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",8ТВ
-http://82.215.111.227/1262/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",365 дней
-http://82.215.111.227/1242/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Кинопремьера
-http://82.215.111.227/1207/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Кинохит
-http://82.215.111.227/1055/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Киномикс
-http://82.215.111.227/1233/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Киносемья
-http://82.215.111.227/1234/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Мужское кино
-http://82.215.111.227/1237/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Кинопоказ
-http://82.215.111.227/1057/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Кинокомедия
-http://82.215.111.227/1232/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Киносерия
-http://82.215.111.227/1235/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Киносвидание
-http://82.215.111.227/1203/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Индийское кино
-http://82.215.111.227/1060/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Наше новое кино
-http://82.215.111.227/1051/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Родное кино
-http://82.215.111.227/1052/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",viju TV1000
-http://82.215.111.227/1058/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",viju TV1000 Action
-http://82.215.111.227/1225/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",viju TV1000 Русское
-http://82.215.111.227/1059/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Дом кино
-http://82.215.111.227/1054/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Cinema
-http://82.215.111.227/1227/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Арсенал
-http://82.215.111.227/1414/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Тexno 24
-http://82.215.111.227/1037/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Ретро
-http://82.215.111.227/1047/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Hollywood
-http://82.215.111.227/1443/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Bollywood HD
-http://82.215.111.227/1444/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Дорама
-http://82.215.111.227/1273/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Муз-ТВ
-http://82.215.111.227/1200/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Музыка Первого
-http://82.215.111.227/1201/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Ru-TV
-http://82.215.111.227/1202/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",TRT Muzic
-http://82.215.111.227/1208/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",MTV
-http://82.215.111.227/1238/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Bridge Classic
-http://82.215.111.227/1269/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",National Geographic
-http://82.215.111.227/1041/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Nat Geo Wild
-http://82.215.111.227/1042/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Animal Planet
-http://82.215.111.227/1043/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",viju Nature
-http://82.215.111.227/1228/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Охота и рыбалка
-http://82.215.111.227/1038/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Discovery channel
-http://82.215.111.227/1039/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Discovery SCI
-http://82.215.111.227/1040/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Загородный
-http://82.215.111.227/1044/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",viju EXPLORE
-http://82.215.111.227/1045/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",viju HISTORY
-http://82.215.111.227/1046/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Глазами туриста
-http://82.215.111.227/1423/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Наша Сибирь
-http://82.215.111.227/1424/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Da vinci
-http://82.215.111.227/1231/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Точка РФ
-http://82.215.111.227/1222/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Кухня
-http://82.215.111.227/1236/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Fashion TV
-http://82.215.111.227/1053/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Моя Планета
-http://82.215.111.227/1247/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Наука
-http://82.215.111.227/1248/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Сарафан
-http://82.215.111.227/1249/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Живая Планета
-http://82.215.111.227/1250/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",В мире животных
-http://82.215.111.227/1404/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Живая природа
-http://82.215.111.227/1411/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Домашние Животные
-http://82.215.111.227/1426/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",ZOOПарк
-http://82.215.111.227/1417/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Телекафе
-http://82.215.111.227/1035/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Авто Плюс
-http://82.215.111.227/1036/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Туган тел
-http://82.215.111.227/1261/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",История
-http://82.215.111.227/1266/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Живи Активно
-http://82.215.111.227/1405/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Доктор
-http://82.215.111.227/1409/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Охота
-http://82.215.111.227/1413/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Инсайт
-http://82.215.111.227/1416/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Живи
-http://82.215.111.227/1419/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Преключения
-http://82.215.111.227/1420/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Drive
-http://82.215.111.227/1421/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Усадьба
-http://82.215.111.227/1427/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Ocean TV
-http://82.215.111.227/1473/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Здоровое ТВ
-http://82.215.111.227/1428/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Вопросы Ответы
-http://82.215.111.227/1429/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Авто 24
-http://82.215.111.227/1430/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Космический
-http://82.215.111.227/1415/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",в гостях у сказки
-http://82.215.111.227/1270/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Duck TV
-http://82.215.111.227/1271/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Мама
-http://82.215.111.227/1244/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Мульт
-http://82.215.111.227/1246/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Дет Мир
-http://82.215.111.227/1032/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Уникум
-http://82.215.111.227/1033/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Карусель
-http://82.215.111.227/1034/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Мультиландия
-http://82.215.111.227/1440/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Tiji
-http://82.215.111.227/1441/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Gulli Girl
-http://82.215.111.227/1445/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Капитан Фантастика
-http://82.215.111.227/1406/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Рыжий
-http://82.215.111.227/1407/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Смаил ТВ
-http://82.215.111.227/1425/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Setanta Sports 1
-http://82.215.111.227/1263/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Setanta Sports 2
-http://82.215.111.227/1264/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",MMA-TV
-http://82.215.111.227/1226/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Eurosport 1
-http://82.215.111.227/1439/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Trace Sports
-http://82.215.111.227/1274/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Fuel TV
-http://82.215.111.227/1280/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Матч! Планета
-http://82.215.111.227/1049/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",viju Sport
-http://82.215.111.227/1229/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",KHL
-http://82.215.111.227/1422/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Qazaqstan
-http://82.215.111.227/1431/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",DW
-http://82.215.111.227/1418/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",BBC News
-http://82.215.111.227/1251/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Fox News
-http://82.215.111.227/1252/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",CGTN
-http://82.215.111.227/1253/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Bloomberg
-http://82.215.111.227/1255/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",CNBC
-http://82.215.111.227/1256/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",TRT Haber
-http://82.215.111.227/1257/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",TRT Avaz
-http://82.215.111.227/1258/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",CNN
-http://82.215.111.227/1259/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",English Club
-http://82.215.111.227/1442/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Aljazeera 1
-http://82.215.111.227/1447/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",Aljazeera 2
-http://82.215.111.227/1433/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",KBS World
-http://82.215.111.227/1448/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",NHK World
-http://82.215.111.227/1449/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",AZTV
-http://82.215.111.227/1455/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",CGTB Russian
-http://82.215.111.227/1456/index.m3u8
-#EXTINF:-1 group-title="📺 Работает в Узбекистане",France 24
-http://82.215.111.227/1241/index.m3u8
+
+#EXTINF:-1 group-title="📺 Platinum (test)",Первый Канал HD
+https://vod.splay.uz/live_splay/original/Perviy_Kanal/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Россия 1
+https://vod.splay.uz/live_splay/original/Rossiya1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Россия 24
+https://vod.splay.uz/live_splay/original/Rossiya24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",ТВ3
+https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",НТВ
+https://vod.splay.uz/live_splay/original/NTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Мир
+https://vod.splay.uz/live_splay/original/Mir/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Мир 24
+https://vod.splay.uz/live_splay/original/Mir24/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Домашний
+https://vod.splay.uz/live_splay/original/Domashniy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Телекафе
+https://vod.splay.uz/live_splay/original/Telekafe/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Кухня ТВ
+https://vod.splay.uz/live_splay/original/KuxnyaTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",365
+https://vod.splay.uz/live_splay/original/365Dney/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",viju explore
+https://vod.splay.uz/live_splay/original/Viasat_Explorer/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Discovery
+https://vod.splay.uz/live_splay/original/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Animal Planet
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Охота и Рыбалка
+https://vod.splay.uz/live_splay/original/Ohota_Ribalka/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",viju Nature
+https://vod.splay.uz/live_splay/original/Viasat_Nature/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Galaxy
+https://vod.splay.uz/live_splay/original/TayniGalaktiki/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Карусель
+https://vod.splay.uz/live_splay/original/Karusel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Da vinci
+https://vod.splay.uz/live_splay/original/Davinci/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",viju Sport
+https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",АВТО ПЛЮС
+https://vod.splay.uz/live_splay/original/Avto_Plus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",VIJU HISTORY
+https://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Platinum (test)",Doctor
+https://vod.splay.uz/live_splay/original/DoktorHD/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",O'zbekiston
+https://vod.splay.uz/live_splay/original/Uzbekiston/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Yoshlar HD
+https://vod.splay.uz/live_splay/original/YoshlarHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Toshkent HD
+https://vod.splay.uz/live_splay/original/Toshkent/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Dunyo Bo'ylab
+https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",O'zbekiston tarixi
+https://vod.splay.uz/live_splay/original/Uzbekiston-TarixiHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Kinoteatr
+https://vod.splay.uz/live_splay/original/Kinoteatr_HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Navo
+https://vod.splay.uz/live_splay/original/Navo/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",TTV Musiqa
+https://iptv.itv.uz/hls/live/t/jff4g5d0FAHd3ItbyIbiUQ/e/1749322889/1485/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Mahalla
+https://vod.splay.uz/live_splay/original/Mahalla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Bolajon
+https://vod.splay.uz/live_splay/original/Bolajon/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Futbol TV
+https://vod.splay.uz/live_splay/original/FutbolTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",FTV
+https://vod.splay.uz/live_splay/original/FTVHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Муз-ТВ (O'zbekiston)
+https://vod.splay.uz/live_splay/original/Muz_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Zo'r TV HD
+https://vod.splay.uz/live_splay/original/Zor_TVHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Milliy TV
+https://vod.splay.uz/live_splay/original/Milly_TVHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",My5
+https://vod.splay.uz/live_splay/original/Mening_YurtimHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Nurafshon TV
+https://iptv.itv.uz/hls/live/t/ctSivoIe1aFPc49j2bhYGg/e/1749322888/1220/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Dasturxon TV
+https://vod.splay.uz/live_splay/original/DasturxonTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",MyDayTV
+https://vod.splay.uz/live_splay/original/Myday/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Lux TV
+https://vod.splay.uz/live_splay/original/LuxTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Tasix-Media
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Makon TV
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Renessans TV
+https://vod.splay.uz/live_splay/original/Renessans_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Taraqqiyot TV
+https://iptv.itv.uz/hls/live/t/PnCx2ynqvDiSguqP2KDxJQ/e/1749322887/1204/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Ruxsor TV
+https://iptv.itv.uz/hls/live/t/0WE2wI5z4XOlC8LAh6TZKg/e/1749322887/4008/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Fergana MTRK
+https://iptv.itv.uz/hls/live/t/txpRCSrjR8E1-iyM100fTA/e/1749322888/1458/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Xorazm MTRK
+https://iptv.itv.uz/hls/live/t/WaSiikVvjfUSKUmVuftncw/e/1749322888/1464/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Vodiy TV
+https://iptv.itv.uz/hls/live/t/huIDLur1o2afxwv6vR244w/e/1749322888/4012/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Shifo TV
+https://iptv.itv.uz/hls/live/t/d5ZIznQAEClUi7Xobp24dA/e/1749322888/1469/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Mimi TV
+https://iptv.itv.uz/hls/live/t/7B42B_SLqYaGgULsXtckKw/e/1749322888/1470/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",TTV
+https://iptv.itv.uz/hls/live/t/8rVPX900xOwDZrJf1xTUYw/e/1749322888/1494/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",TTV Kino
+https://iptv.itv.uz/hls/live/t/_fg1pVygW8ioRtb3wrrdWw/e/1749322889/1486/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Jizzax TV
+https://iptv.itv.uz/hls/live/t/339AcDTQuOOOBKYfjTzCkw/e/1749322889/1488/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",ishonch TV
+https://iptv.itv.uz/hls/live/t/8R9gR9Cw_ySjlO8nrzVV7w/e/1749322889/1489/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Ellikqala TV
+https://iptv.itv.uz/hls/live/t/2tYSP4EcDHpY1C1IUT6YfQ/e/1749322889/1495/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",8TV
+https://iptv.itv.uz/hls/live/t/msly7lNJsRCiXwCY3Yg4ow/e/1749322889/1496/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Amudaryo TV
+https://iptv.itv.uz/hls/live/t/uDr3wb2K0LIzYpaqMFRAdg/e/1749322889/1491/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Nasaf TV
+https://iptv.itv.uz/hls/live/t/yIsz4r72R9rk5cwD2w_utA/e/1749322889/1492/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Jaslar TV
+https://iptv.itv.uz/hls/live/t/BQoyrgu9_RR9-GPhrg8GQQ/e/1749322890/1490/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Muloqot TV
+https://iptv.itv.uz/hls/live/t/xty9NA_LODEK3Oqs0BP8eg/e/1749322890/1285/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",LiveTV
+https://iptv.itv.uz/hls/live/t/Om69eaWw1STc5WmC1GlavA/e/1749322890/1475/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",MakonTV HD
+https://iptv.itv.uz/hls/live/t/NtzWu2dsofI_Uv5WQXLJmw/e/1749322890/1497/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 O'zbekiston (test)",Denov TV
+https://iptv.itv.uz/hls/live/t/5Vn7ksOgqk9ipX9fN4FaZQ/e/1749322890/1499/index.m3u8?ip=104.28.244.141
 
 
 
 
 
+#EXTINF:-1 group-title="⚽️ Спорткомплекс",Setanta Sports 1HD
+https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="⚽️ Спорткомплекс",Setanta Sports 2HD
+https://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="⚽️ Спорткомплекс",Eurosport 1HD
+https://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="⚽️ Спорткомплекс",MMA-TV
+https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="⚽️ Спорткомплекс",Setanta Sports HD KZ
 http://109.248.236.51/setanta_qazaqstan_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚽️ Спорткомплекс",QazSport HD KZ
